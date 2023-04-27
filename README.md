@@ -1,7 +1,7 @@
 
 ### Sobre mim🧑:
 Apenas um estudante de Segurança da informação buscando melhorar.<br/>
-Extremamente interessado em I.A e Pentest, almejando virar um hacker ético.
+Interessado em I.A e Pentest, almejando virar um hacker ético.
 
 
 
