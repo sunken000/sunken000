@@ -61,7 +61,8 @@ Linguagens e ferramentas 🛠:
 
 ### Atividade ✔:
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=sunken000&theme=dark
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=sunken000&theme=dark&bg_color=000000
 
 <a href="https://github.com/sunken000">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sunken000&show_icons=true&theme=tokyonight&line_height=27" alt="Stats"/>
