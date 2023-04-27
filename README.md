@@ -61,12 +61,10 @@ Linguagens e ferramentas 🛠:
 
 ### Atividade ✔:
 
-<a href="https://github.com/sunken000">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunken000&theme=tokyonight" />
-  </a>
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=asunken000)](https://github.com/sunken000/github-readme-stats)
 
 <a href="https://github.com/sunken000">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=sunken000&show_icons=true&theme=tokyonight&line_height=27" alt="Dave's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=sunken000&show_icons=true&theme=tokyonight&line_height=27" alt="Stats"/>
 </a>
 
 <br/>
@@ -74,5 +72,6 @@ Linguagens e ferramentas 🛠:
 <br/>
 
 ### Meus projetos ✨:
+  
   
 
