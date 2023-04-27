@@ -61,7 +61,7 @@ Linguagens e ferramentas 🛠:
 
 ### Atividade ✔:
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=asunken000)](https://github.com/sunken000/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=sunken000)](https://github.com/sunken000/github-readme-stats)
 
 <a href="https://github.com/sunken000">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sunken000&show_icons=true&theme=tokyonight&line_height=27" alt="Stats"/>
