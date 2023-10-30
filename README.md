@@ -7,8 +7,8 @@ Interessado em I.A e Pentest, almejando virar um hacker ético.
 
 - Trabalhando em projetos de hacking e desenvolvimento de i.a.
 - Aprendendo técnicas de pentest e python.
-  "Torna-te aquilo que és"
 <br/>
+"Torna-te aquilo que és"
 
 
 <details>
