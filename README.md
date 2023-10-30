@@ -9,10 +9,8 @@ Interessado em I.A e Pentest, almejando virar um hacker ético.
 - Aprendendo técnicas de pentest e python.
 - Contagem de visitas:  
 ![](https://visitor-badge.glitch.me/badge?page_id=sunken000.sunken000)
-
 <br/>
-
-Torna-te aquilo que és.
+"Torna-te aquilo que és"
 
 <details>
 <summary>
