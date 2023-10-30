@@ -9,6 +9,7 @@ Interessado em I.A e Pentest, almejando virar um hacker ético.
 - Aprendendo técnicas de pentest e python.
 <br/>
 "Torna-te aquilo que és"
+<br/>
 
 
 <details>
