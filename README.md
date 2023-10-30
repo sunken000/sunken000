@@ -7,8 +7,6 @@ Interessado em I.A e Pentest, almejando virar um hacker ético.
 
 - Trabalhando em projetos de hacking e desenvolvimento de i.a.
 - Aprendendo técnicas de pentest e python.
-- Contagem de visitas:  
-![](https://visitor-badge.glitch.me/badge?page_id=sunken000.sunken000)
 <br/>
 "Torna-te aquilo que és"
 
